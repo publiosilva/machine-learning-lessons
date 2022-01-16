@@ -22,3 +22,7 @@ This repository contains a Python implementation of some of the most used machin
 ## Dimensionality Reduction
 
  - [PCA](https://github.com/publiosilva/machine-learning-lessons/blob/master/trabalho-4/pca.py)
+
+## Regression Metrics
+
+ - [RSS, TSS, RSE, R2, MAE, MSE](https://github.com/publiosilva/machine-learning-lessons/blob/master/trabalho-1/regression_metrics.py)
